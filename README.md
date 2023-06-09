@@ -45,3 +45,7 @@ void readNFC() {
 - ### 5º Passo - Abrir o Monitor Serial e definir a velocidade de transmissão (BAUD) para 115.200
 
 - ### 6º Passo - Aproximar um cartão NFC ou RFID ao módulo
+
+Fontes consultadas
+- https://www.aranacorp.com/pt/usar-o-leitor-rfid-pn532-com-o-arduino/
+- https://www.arduinoecia.com.br/modulo-pn532-nfc-rfid-arduino/
