@@ -12,7 +12,7 @@ Conexão do modulo PN532 no modo SPI com o arduino
 ![arduino-pn532-spi](https://github.com/Ch1cro/PN532/assets/120192957/47e7b713-532b-4a47-9545-e093f4314587)
 
 - ## 3º Passo - Colocar o código no arduino IDE
-```arduino
+``` arduino
 #include <SPI.h>
 #include <PN532_SPI.h>
 #include <PN532.h>
