@@ -18,3 +18,6 @@ Conexão do modulo PN532 no modo SPI com o arduino
 ## 5º Passo - Abrir o serial monitor e colocar o BAUD em 115.200
 
 ## 6º Passo - Aproximar um cartão NFC ou RFID
+```python
+print("Exemplo de código em Python")
+```
