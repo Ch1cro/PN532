@@ -4,7 +4,7 @@ Conexão do modulo PN532 no modo SPI com o arduino
 
 - ## 1º Passo - Colocar o modulo em modo SPI
 
-<img src="https://github.com/Ch1cro/PN532/assets/120192957/72cf1eb0-fc50-4465-8da6-5164898ceab2" alt="" width="400" height="200">
+<img src="https://github.com/Ch1cro/PN532/assets/120192957/72cf1eb0-fc50-4465-8da6-5164898ceab2" alt="" width="400" height="300">
 
 - ## 2º Passo - Conectar os cabos seguindo o diagrama
 
