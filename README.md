@@ -7,12 +7,12 @@ Este repositório contém informações e instruções sobre como conectar o mó
 
 <img src="https://github.com/Ch1cro/PN532/assets/120192957/72cf1eb0-fc50-4465-8da6-5164898ceab2" alt="" width="450" height="200">
 
-- ## 2º Passo - Conectar os cabos seguindo o diagrama
+- ### 2º Passo - Conectar os cabos seguindo o diagrama
 
 <img src="https://github.com/Ch1cro/PN532/assets/120192957/47e7b713-532b-4a47-9545-e093f4314587" alt="" width="746" height="590">
 
 
-- ## 3º Passo - Colocar o código no arduino IDE
+- ### 3º Passo - Colocar o código no arduino IDE
 ``` arduino
 #include <SPI.h>
 #include <PN532_SPI.h>
@@ -40,8 +40,8 @@ void readNFC() {
 }
 ```
 
-- ## 4º Passo - Compilar e passar o código para dentro do Arduino
+- ### 4º Passo - Compilar e passar o código para dentro do Arduino
 
-- ## 5º Passo - Abrir o serial monitor e colocar o BAUD em 115.200
+- ### 5º Passo - Abrir o serial monitor e colocar o BAUD em 115.200
 
-- ## 6º Passo - Aproximar um cartão NFC ou RFID ao módulo
+- ### 6º Passo - Aproximar um cartão NFC ou RFID ao módulo
