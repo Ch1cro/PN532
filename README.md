@@ -43,4 +43,4 @@ void readNFC() {
 
 - ## 5º Passo - Abrir o serial monitor e colocar o BAUD em 115.200
 
-- ## 6º Passo - Aproximar um cartão NFC ou RFID
+- ## 6º Passo - Aproximar um cartão NFC ou RFID ao módulo
