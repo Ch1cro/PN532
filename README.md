@@ -15,6 +15,7 @@ Conexão do modulo PN532 no modo SPI com o arduino
 ```arduino
 print("Exemplo de código em Python")
 ```
+`print()`
 
 - ## 4º Passo - Compilar e passar o código para dentro do Arduino
 
