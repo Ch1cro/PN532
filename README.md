@@ -46,6 +46,6 @@ void readNFC() {
 
 - ### 6º Passo - Aproximar um cartão NFC ou RFID ao módulo
 # 
-Fontes consultadas
+- Fontes consultadas
 - https://www.aranacorp.com/pt/usar-o-leitor-rfid-pn532-com-o-arduino/
 - https://www.arduinoecia.com.br/modulo-pn532-nfc-rfid-arduino/
