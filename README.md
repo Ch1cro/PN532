@@ -1,8 +1,9 @@
 # PN532 - Conexão do modulo PN532 no modo SPI com o arduino
 Este repositório contém informações e instruções sobre como conectar o módulo PN532 ao Arduino no modo SPI.
 
+## Passos de Conexão
 
-- ## 1º Passo - Colocar o modulo em modo SPI
+- ### 1º Passo - Colocar o modulo em modo SPI
 
 <img src="https://github.com/Ch1cro/PN532/assets/120192957/72cf1eb0-fc50-4465-8da6-5164898ceab2" alt="" width="450" height="200">
 
